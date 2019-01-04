@@ -1,10 +1,10 @@
 <?php
 
-namespace backend\controllers;
+namespace kouosl\belgetalep\controllers\backend;
 
 use Yii;
-use app\models\Document;
-use backend\models\DocumentSearch;
+use kouosl\belgetalep\models\Document;
+use kouosl\belgetalep\models\DocumentSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;

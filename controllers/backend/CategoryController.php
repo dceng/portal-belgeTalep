@@ -1,10 +1,10 @@
 <?php
 
-namespace app\controllers;
+namespace kouosl\belgetalep\controllers\backend;
 
 use Yii;
-use app\models\Category;
-use app\models\CategorySearch;
+use kouosl\belgetalep\models\Category;
+use kouosl\belgetalep\models\CategorySearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;

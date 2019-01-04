@@ -1,11 +1,11 @@
 <?php
 
-namespace backend\models;
+namespace kouosl\belgetalep\models;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use app\models\Document;
+use kouosl\belgetalep\models\Document;
 
 /**
  * DocumentSearch represents the model behind the search form of `app\models\Document`.
